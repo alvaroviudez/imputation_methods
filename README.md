@@ -1,4 +1,4 @@
-# imputation_methods
+# Imputation methods
 *How to deal with null/emtpy values*
 
 As we learn how to make our Data Science projects as scientific and accurate as possible, different methods and procedures are to be learnt. Quite often, several methods exist to solve the same issue. One of these situations is dealing with null/empty values.
