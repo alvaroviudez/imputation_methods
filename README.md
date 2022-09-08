@@ -7,4 +7,4 @@ An interesting article on different ways of dealing with null values can be foun
 
 <ins>The goal of this experiment is to compare the accurateness of different imputation methods</ins>. We'll do so by using a dataset created using [Google Sheets](https://docs.google.com/spreadsheets/) where we have related x features and a target variable y. Besides that original dataset, we'll use two additional datasets that resemble the original dataset, but with 20% or 80% empty values.
 
-Watch the full project [here](https://github.com/alvaroviudez/imputation_methods/blob/main/Test%20imputations.ipynb).
+Watch the full project [here](https://github.com/alvaroviudez/imputation_methods/blob/main/Imputations_experiment.ipynb).
